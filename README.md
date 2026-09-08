@@ -14,13 +14,11 @@ Aplicativo fictício para conectar pessoas que desejam adotar animais de estima�
 
 2. Funcionalidades Principais
 
-(Responsável: João Pedro Monteiro da Cunha Santos)
-
-- Cadastro de pets para adoção
-- Busca com filtros
-- Chat com ONGs e protetores
-- Agendamento de visitas
-- Notificações de novos pets
+- Cadastro de pets para adoção: ONGs e protetores podem cadastrar animais disponíveis, com fotos, idade, porte e histórico de saúde.
+- Busca com filtros: usuários filtram por espécie, idade, porte, localização e temperamento.
+- Chat com ONGs e protetores: comunicação direta dentro do app para tirar dúvidas sobre o pet antes da adoção.
+- Agendamento de visitas: marcação de horário para conhecer o animal pessoalmente antes de decidir.
+- Notificações de novos pets: alertas para usuários com base nos filtros salvos.
 
 3. Tecnologias Utilizadas (fictícias)
 
