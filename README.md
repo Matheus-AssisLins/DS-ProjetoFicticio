@@ -20,6 +20,9 @@ Aplicativo fictício para conectar pessoas que desejam adotar animais de estima�
 - Agendamento de visitas: marcação de horário para conhecer o animal pessoalmente antes de decidir.
 - Notificações de novos pets: alertas para usuários com base nos filtros salvos.
 
+
+Essas funcionalidades cobrem o ciclo completo do processo de adoção: da descoberta do pet até o contato direto com quem está oferecendo.
+
 3. Tecnologias Utilizadas (fictícias)
 
 (Responsável: Cauan Felipe Silva Castro)
