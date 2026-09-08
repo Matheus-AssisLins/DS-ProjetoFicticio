@@ -16,7 +16,11 @@ Aplicativo fictício para conectar pessoas que desejam adotar animais de estima�
 
 (Responsável: João Pedro Monteiro da Cunha Santos)
 
-🔧 Placeholder: Liste e descreva as principais funcionalidades do app (ex: cadastro de pets, busca por filtros, chat com ONGs, agendamento de visitas etc.). Pode ser em formato de lista com um breve resumo de cada funcionalidade.
+- Cadastro de pets para adoção
+- Busca com filtros
+- Chat com ONGs e protetores
+- Agendamento de visitas
+- Notificações de novos pets
 
 3. Tecnologias Utilizadas (fictícias)
 
