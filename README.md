@@ -22,36 +22,38 @@ Aplicativo fictício para conectar pessoas que desejam adotar animais de estima�
 
 (Responsável: Cauan Felipe Silva Castro)
 
-🔧 Neste projeto fictício, utilizamos uma stack moderna separada entre front-end, back-end, banco de dados e infraestrutura. Todas as escolhas abaixo são de mentira e servem apenas para exercitar a documentação de um projeto real.
+O ConectaPet é um projeto fictício, mas a stack abaixo foi escolhida para ser coerente com um app real de adoção de animais: um aplicativo mobile leve, uma API organizada em módulos e uma infraestrutura simples de subir. Todas as tecnologias estão separadas entre front-end, back-end, banco de dados e infraestrutura.
 
-Front-end
+**Front-end**
 
-React Native (Expo) — aplicativo mobile para Android e iOS a partir de uma única base de código.
-TypeScript — tipagem estática para reduzir erros ainda na escrita do código.
-React Navigation — navegação entre as telas de busca, perfil do pet e chat.
-Zustand — gerenciamento de estado global (usuário logado, filtros de busca e favoritos).
-NativeWind — estilização das telas com classes utilitárias.
+- **React Native (Expo)** — aplicativo mobile para Android e iOS a partir de uma única base de código.
+- **TypeScript** — tipagem estática para reduzir erros ainda na escrita do código.
+- **React Navigation** — navegação entre as telas de busca, perfil do pet e chat.
+- **Zustand** — gerenciamento de estado global (usuário logado, filtros de busca e favoritos).
+- **NativeWind** — estilização das telas com classes utilitárias.
 
-Back-end
+**Back-end**
 
-Node.js 20 — ambiente de execução do servidor.
-NestJS — organização da API em módulos (pets, ONGs, adoções e mensagens).
-Prisma ORM — acesso ao banco de dados e controle das migrations.
-JWT + bcrypt — autenticação e armazenamento seguro das senhas.
-Socket.IO — chat em tempo real entre adotantes e ONGs.
+- **Node.js 20** — ambiente de execução do servidor.
+- **NestJS** — organização da API em módulos (pets, ONGs, adoções e mensagens).
+- **Prisma ORM** — acesso ao banco de dados e controle das migrations.
+- **JWT + bcrypt** — autenticação dos usuários e armazenamento seguro das senhas.
+- **Socket.IO** — chat em tempo real entre adotantes e ONGs.
 
-Banco de Dados
+**Banco de Dados**
 
-PostgreSQL 16 — banco relacional principal (usuários, pets, ONGs e adoções).
-Redis — cache das buscas por filtros e controle de sessões.
-Amazon S3 — armazenamento das fotos dos pets.
+- **PostgreSQL 16** — banco relacional principal (usuários, pets, ONGs e adoções).
+- **Redis** — cache das buscas por filtros e controle de sessões.
+- **Amazon S3** — armazenamento das fotos dos pets.
 
-Infraestrutura e DevOps
+**Infraestrutura e DevOps**
 
-Docker e Docker Compose — ambiente de desenvolvimento padronizado para todo o time.
-GitHub Actions — CI/CD com execução de testes e lint a cada Pull Request.
-Render (API) e Expo EAS (app) — hospedagem e distribuição das builds.
-Jest e Supertest — testes unitários e de integração da API.
+- **Docker + Docker Compose** — ambiente de desenvolvimento padronizado para todo o time.
+- **GitHub Actions** — CI/CD com execução de testes e lint a cada Pull Request.
+- **Render (API) e Expo EAS (app)** — hospedagem da API e distribuição das builds do aplicativo.
+- **Jest + Supertest** — testes unitários e de integração da API.
+
+> ⚠️ Nenhuma dessas tecnologias foi realmente implementada: este repositório existe apenas para praticar o fluxo de Git e GitHub.
 
 4. Como Instalar e Rodar o Projeto
 
