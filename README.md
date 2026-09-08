@@ -22,7 +22,15 @@ Aplicativo fictício para conectar pessoas que desejam adotar animais de estima�
 
 (Responsável: Cauan Felipe Silva Castro)
 
-🔧 Placeholder: Descreva as tecnologias "usadas" no projeto fictício (linguagens, frameworks, banco de dados, etc.). Como é um projeto de mentira, pode inventar um stack coerente só para fins de prática (ex: React Native, Node.js, PostgreSQL).
+🔧 Neste projeto fictício, utilizamos uma stack moderna separada entre front-end, back-end, banco de dados e infraestrutura.
+
+Front-end
+
+Back-end
+
+Banco de Dados
+
+Infraestrutura e DevOps
 
 4. Como Instalar e Rodar o Projeto
 
