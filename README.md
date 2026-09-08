@@ -10,7 +10,13 @@ Aplicativo fictício para conectar pessoas que desejam adotar animais de estima�
 
 (Responsável: Matheus de Assis Lins)
 
-🔧 Placeholder: Escreva aqui uma introdução geral do ConectaPet — o que é, qual problema resolve e por que ele existe. Pode incluir um breve contexto (ex: dificuldade de encontrar pets para adoção de forma confiável) e uma visão geral de como o app resolve isso.
+O que é o ConectaPet
+
+O contexto: a adoção informal e dispersa
+
+Como o ConectaPet resolve
+
+Por que o projeto existe
 
 2. Funcionalidades Principais
 
