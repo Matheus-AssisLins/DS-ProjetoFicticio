@@ -55,6 +55,14 @@ O ConectaPet é mantido por um time de 6 estudantes de Sistemas de Informação,
 
 📬 Fale com a gente
 
+E-mail geral: contato@conectapet.dev
+Suporte a ONGs e protetores: parcerias@conectapet.dev
+Instagram: @conectapet.app
+LinkedIn: /company/conectapet
+Issues e sugestões técnicas: use a aba Issues deste repositório
+
+⚠️ Todos os e-mails, perfis e canais listados acima são fictícios e existem apenas no contexto deste projeto de treino.
+
 📋 Instruções do Exercício (Fluxo Git/GitHub)
 
 Este README é a base de um projeto fictício criado para o time praticar, em conjunto, o fluxo de trabalho colaborativo com Git e GitHub: clonagem, branches, commits, push, Pull Requests (PRs) e revisão de código.
