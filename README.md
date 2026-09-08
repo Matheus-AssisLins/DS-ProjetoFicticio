@@ -40,7 +40,11 @@ Aplicativo fictício para conectar pessoas que desejam adotar animais de estima�
 
 (Responsável: Felipe Belfort Teixeira)
 
-🔧 Placeholder: Liste os integrantes do time, seus papéis fictícios no projeto (ex: dev front-end, dev back-end, design) e uma forma de contato fictícia (e-mail, redes sociais etc.).
+O ConectaPet é mantido por um time de 6 estudantes de Sistemas de Informação, organizado em três frentes: produto/back-end, front-end e qualidade/infra. Todos os papéis e contatos abaixo são fictícios, criados apenas para fins do exercício.
+
+👥 Integrantes
+
+📬 Fale com a gente
 
 📋 Instruções do Exercício (Fluxo Git/GitHub)
 
