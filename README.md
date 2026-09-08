@@ -44,6 +44,15 @@ O ConectaPet é mantido por um time de 6 estudantes de Sistemas de Informação,
 
 👥 Integrantes
 
+| Integrante | Papel no projeto | Responsabilidades principais | Contato (fictício) |
+| --- | --- | --- | --- |
+| Matheus de Assis Lins | Product Owner & Tech Lead | Visão do produto, priorização do backlog e revisão final das entregas | matheus.lins@conectapet.dev |
+| João Pedro Monteiro da Cunha Santos | Dev Back-end | API de pets e adoções, regras de negócio e integração com o banco de dados | joao.santos@conectapet.dev |
+| Cauan Felipe Silva Castro | Dev Front-end (Mobile) | Telas do app em React Native, navegação e consumo da API | cauan.castro@conectapet.dev |
+| Pedro Henrique Reynaldo Barbosa Cavalcanti | DevOps & Infraestrutura | Ambientes, variáveis de configuração, CI/CD e deploy das versões de teste | pedro.cavalcanti@conectapet.dev |
+| Luis Henrique Barbosa Marques | QA & Documentação | Testes das funcionalidades, guia de contribuição e padronização dos PRs | luis.marques@conectapet.dev |
+| Felipe Belfort Teixeira | UI/UX Design & Comunicação | Protótipos das telas, identidade visual do app e canais de contato com ONGs | felipe.teixeira@conectapet.dev |
+
 📬 Fale com a gente
 
 📋 Instruções do Exercício (Fluxo Git/GitHub)
