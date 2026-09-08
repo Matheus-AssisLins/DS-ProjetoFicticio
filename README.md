@@ -10,25 +10,27 @@ Aplicativo fictício para conectar pessoas que desejam adotar animais de estima�
 
 (Responsável: Matheus de Assis Lins)
 
-O que é o ConectaPet
+**O que é o ConectaPet**
 
 O ConectaPet é um aplicativo (fictício) de adoção responsável de animais. Ele funciona como uma ponte entre três públicos: pessoas que querem adotar, ONGs de proteção animal e protetores independentes que cuidam de animais resgatados por conta própria. Em um único lugar, o adotante encontra pets disponíveis, conhece a história de cada um e conversa diretamente com quem cuida dele até a adoção ser concluída.
 
-O contexto: a adoção informal e dispersa
+**O contexto: a adoção informal e dispersa**
 
 Hoje boa parte da adoção acontece de forma espalhada e informal: posts em redes sociais que somem no feed, grupos de WhatsApp, feiras de adoção divulgadas de última hora. Isso gera três problemas:
 
-Para quem quer adotar: é difícil saber onde procurar, filtrar por porte, idade ou cidade, e confiar que o anúncio é real e atualizado.
-Para ONGs e protetores: a divulgação é trabalhosa, se repete em vários canais e ainda assim alcança poucas pessoas; não há histórico do que já foi enviado nem controle de quem já demonstrou interesse.
-Para os animais: o processo se arrasta, aumenta o tempo de abrigo e cresce o risco de devolução quando o adotante não recebeu informações suficientes antes de decidir.
+- **Para quem quer adotar:** é difícil saber onde procurar, filtrar por porte, idade ou cidade, e confiar que o anúncio é real e atualizado.
+- **Para ONGs e protetores:** a divulgação é trabalhosa, se repete em vários canais e ainda assim alcança poucas pessoas; não há histórico do que já foi enviado nem controle de quem já demonstrou interesse.
+- **Para os animais:** o processo se arrasta, aumenta o tempo de abrigo e cresce o risco de devolução quando o adotante não recebeu informações suficientes antes de decidir.
 
-Como o ConectaPet resolve
+**Como o ConectaPet resolve**
 
 O app centraliza e organiza esse fluxo. ONGs e protetores cadastram os animais com fotos, porte, idade, temperamento, situação de saúde (vacinação, castração) e requisitos de adoção. O adotante busca usando filtros que fazem sentido para a rotina dele (cidade, espécie, porte, se convive bem com crianças ou outros animais) e, ao encontrar um pet, fala com o responsável dentro do próprio aplicativo e agenda uma visita. Todo o processo — do primeiro interesse ao acompanhamento após a adoção — fica registrado, o que dá previsibilidade para as duas pontas.
 
-Por que o projeto existe
+**Por que o projeto existe**
 
 O ConectaPet nasce da ideia de que o obstáculo da adoção raramente é falta de gente disposta a adotar: é falta de informação confiável no momento certo. Ao reunir animais, responsáveis e histórico em uma plataforma única, o objetivo é encurtar o tempo entre "quero adotar" e "adotei", e tornar a decisão mais consciente — reduzindo devoluções e liberando espaço nos abrigos para novos resgates.
+
+2. Funcionalidades Principais
 
 (Responsável: João Pedro Monteiro da Cunha Santos)
 
