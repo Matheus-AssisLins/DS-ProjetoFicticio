@@ -58,7 +58,28 @@ O ConectaPet nasce da ideia de que o obstáculo da adoção raramente é falta d
 
 (Responsável: Felipe Belfort Teixeira)
 
-🔧 Placeholder: Liste os integrantes do time, seus papéis fictícios no projeto (ex: dev front-end, dev back-end, design) e uma forma de contato fictícia (e-mail, redes sociais etc.).
+O ConectaPet é mantido por um time de 6 estudantes de Sistemas de Informação, organizado em três frentes: produto/back-end, front-end e qualidade/infra. Todos os papéis e contatos abaixo são fictícios, criados apenas para fins do exercício.
+
+👥 Integrantes
+
+| Integrante | Papel no projeto | Responsabilidades principais | Contato (fictício) |
+| --- | --- | --- | --- |
+| Matheus de Assis Lins | Product Owner & Tech Lead | Visão do produto, priorização do backlog e revisão final das entregas | matheus.lins@conectapet.dev |
+| João Pedro Monteiro da Cunha Santos | Dev Back-end | API de pets e adoções, regras de negócio e integração com o banco de dados | joao.santos@conectapet.dev |
+| Cauan Felipe Silva Castro | Dev Front-end (Mobile) | Telas do app em React Native, navegação e consumo da API | cauan.castro@conectapet.dev |
+| Pedro Henrique Reynaldo Barbosa Cavalcanti | DevOps & Infraestrutura | Ambientes, variáveis de configuração, CI/CD e deploy das versões de teste | pedro.cavalcanti@conectapet.dev |
+| Luis Henrique Barbosa Marques | QA & Documentação | Testes das funcionalidades, guia de contribuição e padronização dos PRs | luis.marques@conectapet.dev |
+| Felipe Belfort Teixeira | UI/UX Design & Comunicação | Protótipos das telas, identidade visual do app e canais de contato com ONGs | felipe.teixeira@conectapet.dev |
+
+📬 Fale com a gente
+
+E-mail geral: contato@conectapet.dev
+Suporte a ONGs e protetores: parcerias@conectapet.dev
+Instagram: @conectapet.app
+LinkedIn: /company/conectapet
+Issues e sugestões técnicas: use a aba Issues deste repositório
+
+⚠️ Todos os e-mails, perfis e canais listados acima são fictícios e existem apenas no contexto deste projeto de treino.
 
 📋 Instruções do Exercício (Fluxo Git/GitHub)
 
